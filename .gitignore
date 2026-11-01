@@ -1,7 +1,0 @@
-__pycache__/
-.venv/
-venv/
-models/*.keras
-data/
-reports/
-.streamlit/secrets.toml
